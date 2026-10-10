@@ -1,0 +1,6 @@
+{
+  "database": "data/library.sqlite3",
+  "sources": [
+    {"name": "sample", "collection": "notes", "path": "examples/notes"}
+  ]
+}
