@@ -122,6 +122,6 @@ dependency versions are resolved by pip.
 
 ## References
 
-- [Python MCP SDK v1.26.0](https://github.com/modelcontextprotocol/python-sdk/tree/v1.26.0)
+- [Python MCP SDK v1.30.0](https://github.com/modelcontextprotocol/python-sdk/tree/v1.30.0)
 - [Codex MCP configuration](https://learn.chatgpt.com/docs/extend/mcp?surface=cli)
 - [pypdf documentation](https://pypdf.readthedocs.io/)
